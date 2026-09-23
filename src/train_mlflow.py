@@ -346,3 +346,4 @@ if __name__ == "__main__":
     train_and_track(
         run_name="RandomForest"
     )
+    print("\nAll runs completed and tracked in MLflow.")
